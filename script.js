@@ -23,4 +23,4 @@ menuLinks.forEach(link => {
   });
 });
 
-loadContent('Inicio');
+loadContent('/sections/inicio.html');
